@@ -3,17 +3,18 @@ Swappy frontend implement \
 use react native in expo 
 
 * 一般換物介面
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44690.jpg)
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44690.jpg" width="350" height="670">
+
 
 * 群組換物
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44688.jpg)
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44693.jpg)
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44688.jpg" width="350" height="670">
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44693.jpg" width="350" height="670">
 
 * 換物介面
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44689.jpg)
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44689.jpg" width="350" height="670">
 
 * 訂單介面
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44691.jpg)
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44691.jpg" width="350" height="670">
 
 * 關於介面
-![image](https://github.com/sylvey/swappy-frontend/blob/main/44692.jpg)
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/44692.jpg" width="350" height="670">
