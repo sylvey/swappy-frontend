@@ -1,2 +1,4 @@
 # swappy-frontend
-Swappy frontend implement
+Swappy frontend implement \
+use react native in expo 
+* 
