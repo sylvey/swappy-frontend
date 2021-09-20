@@ -1,6 +1,5 @@
 # swappy-frontend
-Swappy frontend implement \
-use react native in expo 
+Swappy is a app platform provides users to swap things with each other. This project uses react native in expo to do the frontend implement.
 
 * 一般換物介面
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/44690.jpg" width="350" height="670">
