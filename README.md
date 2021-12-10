@@ -1,6 +1,31 @@
 # swappy-frontend
 Swappy is a app platform provides users to swap things with each other.\
 This project uses react native in expo to do the frontend implement.
+## Frontend
+
+#### Step 0. 安裝 yarn
+如果你還沒有安裝 yarn，請參考官網 https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable ，依照步驟安裝。
+
+#### Step 1. 安裝 packages
+第一次開啟專案請先用以下指令安裝所有需要的 packages，之後再次開啟專案跳過這個指令即可。
+
+```shell
+cd swappy-frontend
+```
+
+```shell
+yarn install
+```
+
+#### Step 2. 開啟前端
+先在手機上下載 expo。
+
+```shell
+expo start
+```
+這時會跳出 Expo 的網頁，將QR code上的選項從Lan轉為Tunnel，並用手機上的掃描。
+
+
 
 * 一般換物介面
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/44690.jpg" width="350" height="670">
