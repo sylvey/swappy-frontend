@@ -30,16 +30,20 @@ expo start
 * 一般換物介面
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/44690.jpg" width="350" height="670">
 
+* 換物主頁
+  * 一般換物
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ general.png" width="350" height="670">
+  * 群組換物
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ group.png" width="350" height="670">
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/組別頁面.png" width="350" height="670">
 
-* 群組換物
-<img src="https://github.com/sylvey/swappy-frontend/blob/main/44688.jpg" width="350" height="670">
-<img src="https://github.com/sylvey/swappy-frontend/blob/main/44693.jpg" width="350" height="670">
+* 斷捨離
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/Record _ 斷捨離 _ home close.png" width="350" height="670">
 
-* 換物介面
-<img src="https://github.com/sylvey/swappy-frontend/blob/main/44689.jpg" width="350" height="670">
 
-* 訂單介面
-<img src="https://github.com/sylvey/swappy-frontend/blob/main/44691.jpg" width="350" height="670">
+* 社群分享
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/社群分享 _ 所有文章.png" width="350" height="670">
 
-* 關於介面
-<img src="https://github.com/sylvey/swappy-frontend/blob/main/44692.jpg" width="350" height="670">
+
+* 個人頁面
+<img src="https://github.com/sylvey/swappy-frontend/blob/main/個人頁面 _ 自己檢視（new）.png" width="350" height="670">
