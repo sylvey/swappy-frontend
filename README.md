@@ -32,6 +32,7 @@ expo start
 
   * 一般換物
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ general.png" width="350" height="670">
+
   * 群組換物
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ group.png" width="350" height="670">
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/組別頁面.png" width="350" height="670">
