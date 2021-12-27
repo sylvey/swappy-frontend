@@ -25,25 +25,23 @@ expo start
 ```
 這時會跳出 Expo 的網頁，將QR code上的選項從 Lan 轉為 Tunnel，並用手機的掃描。
 
-* 開啟畫面
+#### 開啟畫面
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/sample.png" width="350" height="670">
 
-* 換物主頁
+#### 換物主頁
 
-  * 一般換物
+##### 一般換物
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ general.png" width="350" height="670">
 
-  * 群組換物
+##### 群組換物
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/換物主頁 _ group.png" width="350" height="670">
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/組別頁面.png" width="350" height="670">
 
-* 斷捨離
+#### 斷捨離
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/Record _ 斷捨離 _ home close.png" width="350" height="670">
 
-
-* 社群分享
+#### 社群分享
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/社群分享 _ 所有文章.png" width="350" height="670">
 
-
-* 個人頁面
+#### 個人頁面
 <img src="https://github.com/sylvey/swappy-frontend/blob/main/個人頁面 _ 自己檢視（new）.png" width="350" height="670">
