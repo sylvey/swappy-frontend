@@ -23,7 +23,7 @@ yarn install
 ```shell
 expo start
 ```
-這時會跳出 Expo 的網頁，將QR code上的選項從Lan轉為Tunnel，並用手機上的掃描。
+這時會跳出 Expo 的網頁，將QR code上的選項從 Lan 轉為 Tunnel，並用手機的掃描。
 
 
 
